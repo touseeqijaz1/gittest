@@ -1,0 +1,6 @@
+git branch newbracnch (create new branch)
+
+git checkout newbracnch (move to this branch)
+
+git branch -b newbracnch (create and also move to this branch)
+

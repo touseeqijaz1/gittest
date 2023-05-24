@@ -1,0 +1,4 @@
+touch hello.txt (create a new file hello.txt)
+
+echo "hello" > hello.txt (create a new file with text "hello")
+echo "hello" >> hello.txt (add this text in new line of existing file)

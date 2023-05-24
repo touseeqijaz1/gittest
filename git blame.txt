@@ -1,0 +1,1 @@
+git blame file.txt (show all details of line, who edit with name time etc)

@@ -1,0 +1,2 @@
+git log (show all)
+git log -p -1 (show 1 commit with what changes do in this)
