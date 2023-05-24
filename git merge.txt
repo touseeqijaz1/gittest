@@ -1,0 +1,11 @@
+=> git merge brachname
+
+=> git reset --hard HEAD~1 (undo commit last changes)
+
+find the merge commit 5b6ebed99f920f28bfdbd8e2f35d369bbcc3cd23 by:
+=> git log
+choose your commit like 5b6ebed99f920f28bfdbd8e2f35d369bbcc3cd23
+
+Two ways
+=> git reset --hard 5b6ebed99f920f28bfdbd8e2f35d369bbcc3cd23
+=> git revert -m 1 5b6ebed99f920f28bfdbd8e2f35d369bbcc3cd23

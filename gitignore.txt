@@ -1,0 +1,9 @@
+touch .gitignore (is a file where we give the file name which we want that git not add in git even git add. or git add -a)
+
+mylog.log (ignore all file with name mylog.log even in folder)
+
+/mylog.log(only ignore if .gitignore and they are in same folder, subfolder file not ignored)
+
+*.log (ignore all file with have extension .log)
+
+log/ (ignore this log folder)

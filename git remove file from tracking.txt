@@ -1,0 +1,3 @@
+git rm waste.html (remove from tracking and also from pc)
+
+git rm --cached waste.html (only remove from tracking)

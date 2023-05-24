@@ -1,0 +1,6 @@
+git checkout branchname (go to branch which data you want to pull)
+
+git pull origin branch name (it pull all data from branch to your server)
+
+*it say to give username and password
+*enter github username and personal tokken not password(because it is not supported)

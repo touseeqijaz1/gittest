@@ -1,0 +1,2 @@
+git checkout index.html (only this file recover)
+git checkout -f (all file recover/replace with git)

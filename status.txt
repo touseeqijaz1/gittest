@@ -1,0 +1,3 @@
+git status (show file name which you edit)
+
+git status -s (show file name with "M" "C" symbole also show it is add to commit or not)
